@@ -1,0 +1,5 @@
+= Stockbeat Docs
+
+Welcome to the Stockbeat documentation.
+
+
